@@ -54,7 +54,7 @@
 //第八个参数，const Scalar&类型的borderValue，当边界为常数时的边界值，有默认值morphologyDefaultBorderValue()，一般我们不用去管他。需要用到它时，可以看官方文档中的createMorphologyFilter()函数得到更详细的解释。
 //其中的这些操作都可以进行就地（in-place）操作。且对于多通道图像，每一个通道都是单独进行操作。
 //OK，讲解完毕，下面就是使用的范例。
-
+//
 //int main()
 //{
 //    Mat image =imread("/Users/luyuncheng/Pictures/com.tencent.ScreenCapture/test6.jpg");
