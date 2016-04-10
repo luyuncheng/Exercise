@@ -17,6 +17,7 @@
 //    // 想用调用void foo(mid_a &)
 ////    foo(static_cast<mid_a &>(arg));//ok
 ////    foo(arg);//error
+////      foo(reinterpret_cast<mid_a &>(arg));
 //}
 //
 //int main() {

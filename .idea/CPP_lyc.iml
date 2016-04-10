@@ -6,9 +6,20 @@
       <sourceFolder url="file://$MODULE_DIR$/ma.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/epoll.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/HDU_4609_FFT.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/C.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/d.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/a.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/aaaa.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/a_h.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_ms201604/b.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/Hiho_c19_2.cpp.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/LeetCode_Wiggle Sort II.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/HDU_4609_FFT.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/GCJ2016/B_hu_force.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/GCJ2016/B.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/GCJ2016/Brandom.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/GCJ2016/B_h.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/GCJ2016/a.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/eloop/eloop.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/eloop/eloop.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kqueue.cpp" isTestSource="false" />
@@ -17,9 +28,20 @@
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/implicit_cast_test1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/implicit_cast_test2.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/dp_cast.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/FFT.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/QuickSort.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/Radix_sort.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/MaxHeap.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithm/DFT.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Algorithm/MergeSort.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Algorithm/FFT.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/Count_sort.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/AVL.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/RedBlackTree_set2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/KMP.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/Treap.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/RedBlackTree_Set.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/SpiralMatrix.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithm/RedBlackTree_map.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kqueue2.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
