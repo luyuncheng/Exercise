@@ -2,9 +2,12 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ma.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Nouse.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ma.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OpenCV/Histogram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OpenCV/高提升滤波.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OpenCV/AddNoise.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/epoll.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/OJ_Problem/HDU_4609_FFT.cpp" isTestSource="false" />
@@ -44,8 +47,8 @@
       <sourceFolder url="file://$MODULE_DIR$/eloop/eloop.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/Cast.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/Implicit_cast.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/implicit_cast_test1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/implicit_cast_test2.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/implicit_cast_test1.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CPP_BASE/dp_cast.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/kqueue2.cpp" isTestSource="false" />
     </content>
