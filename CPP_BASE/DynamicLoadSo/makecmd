@@ -1,0 +1,2 @@
+c++ -Wall test.cpp -o test -pipe -pthread -ldl -Wl,--export-dynamic -std=c++11
+c++ make_so.cpp -fPIC -shared -pthread -rdynamic -o test.so -lboost_system -lboost_thread -std=c++11
